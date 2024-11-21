@@ -2,7 +2,7 @@
 
 import random
 
-for _ in range(100): # Izvēlas 100 nejaušus skaitļus 
-    random_skaitlis = random.randint(101, 500)# Nejaušs skaitlis diapazonā no 101 līdz 500 
-    print(random_skaitlis) # Izvada skaitļus 
+for _ in range(100): # Izvēlās 100 nejaušus skaitļus 
+    random_skaitlis = random.randint(101, 500)# Nejauši skaitļi no 101 līdz 500 
+    print(random_skaitlis) # Izvada 100 skaitļus 
 
